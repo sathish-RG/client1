@@ -36,7 +36,7 @@ const Footer = () => {
 
       </div>
       <p className="py-4 text-center text-xs md:text-sm text-white/60">
-        Copyright 2024 © GreatStack. All Right Reserved.
+        Copyright 2025 Edemy. All Right Reserved.
       </p>
     </footer>
   );
